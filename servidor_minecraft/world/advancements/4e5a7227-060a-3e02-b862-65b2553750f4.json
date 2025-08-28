@@ -3532,6 +3532,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-28 22:53:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/silver_birch_shrub": {
     "criteria": {
       "has_silver_birch_sapling": "2025-08-28 22:36:12 +0000"
@@ -3757,6 +3763,12 @@
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_mushroom_stew": "2025-08-28 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "mobs_of_mythology:tame_basilisk": {
+    "criteria": {
+      "tamed_animal": "2025-08-28 22:53:59 +0000"
     },
     "done": true
   },

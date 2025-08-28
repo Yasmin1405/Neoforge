@@ -754,6 +754,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "silver_birch_log": "2025-08-28 22:34:24 +0000",
       "maple_log": "2025-08-28 04:28:45 +0000"
     },
     "done": false
@@ -3374,6 +3375,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-08-28 22:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
@@ -3389,6 +3396,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_sapling": "2025-08-28 22:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-28 22:34:24 +0000"
     },
     "done": true
   },
@@ -3410,6 +3429,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/food/paper_from_reeds": {
+    "criteria": {
+      "has_reeds": "2025-08-28 22:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
@@ -3419,6 +3444,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-08-28 22:32:45 +0000"
     },
     "done": true
   },
@@ -3470,6 +3501,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_mushroom_stew": "2025-08-28 22:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
@@ -3479,6 +3516,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-28 22:34:24 +0000"
     },
     "done": true
   },

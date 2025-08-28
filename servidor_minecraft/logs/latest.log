@@ -2088,3 +2088,117 @@ java.lang.UnsupportedOperationException: Payload omegaconfig:sync may not be sen
 [28Aug2025 22:25:03.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> si
 [28Aug2025 22:29:36.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set the time to 1000]
 [28Aug2025 22:29:59.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> plantare patatas
+[28Aug2025 22:30:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> talvez
+[28Aug2025 22:31:25.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> si
+[28Aug2025 22:31:39.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> lo de nombre no tiene que ver
+[28Aug2025 22:31:44.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> se salen por que flotan
+[28Aug2025 22:31:47.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> debes poner cerca
+[28Aug2025 22:32:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> pero si ponles nombre
+[28Aug2025 22:32:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> para que no desaparezcan
+[28Aug2025 22:34:08.606] [c2me-worker-2/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method getBuryContribution in c2me-opts-worldgen-vanilla.mixins.json:structure_weight_sampler.MixinStructureWeightSampler from mod c2me_opts_worldgen_vanilla cannot reduce visibiliy of PROTECTED target method, visibility will be upgraded.
+[28Aug2025 22:34:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Teleported Celxex to Yasame14]
+[28Aug2025 22:34:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> exploarando
+[28Aug2025 22:34:46.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> esta hueco
+[28Aug2025 22:34:48.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> asi es
+[28Aug2025 22:35:14.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> decoracion
+[28Aug2025 22:35:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> las pones
+[28Aug2025 22:36:11.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> pollo negro
+[28Aug2025 22:36:40.798] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:36:48.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no
+[28Aug2025 22:36:50.802] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:36:50.809] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:36:50.810] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:36:50.821] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:37:00.187] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:37:00.187] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:37:37.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no
+[28Aug2025 22:37:40.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> pega suave
+[28Aug2025 22:38:04.095] [c2me-worker-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[28Aug2025 22:38:04.097] [c2me-worker-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[28Aug2025 22:38:04.097] [c2me-worker-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[28Aug2025 22:38:04.101] [c2me-worker-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[28Aug2025 22:38:22.456] [c2me-worker-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Aug2025 22:38:22.459] [c2me-worker-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Aug2025 22:38:22.460] [c2me-worker-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Aug2025 22:38:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> veamos si es
+[28Aug2025 22:39:01.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> dio mio
+[28Aug2025 22:39:07.606] [c2me-worker-0/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id lootr:lootr_minecart
+[28Aug2025 22:39:10.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Teleported Yasame14 to Celxex]
+[28Aug2025 22:39:17.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> AJKSDJKASJDK
+[28Aug2025 22:39:25.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Teleported Yasame14 to Celxex]
+[28Aug2025 22:39:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set the time to 1000]
+[28Aug2025 22:39:45.398] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:39:46.402] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:39:46.402] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:39:51.977] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:39:51.977] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:39:52.013] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:39:52.924] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[28Aug2025 22:39:53.195] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:278) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23672!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.blockChanged(NewChunkHolderVanillaInterface.java:292) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23672!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.blockChanged(ServerChunkCache.java:428) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.initializeWaystone(WaystoneBlockEntityBase.java:209) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:178) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.initializeFromBase(WaystoneBlockEntityBase.java:223) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:182) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket.create(ClientboundBlockEntityDataPacket.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.getUpdatePacket(BalmBlockEntity.java:51) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntity(ChunkHolder.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntityIfNeeded(ChunkHolder.java:235) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.lambda$broadcastChanges$2(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket.runUpdates(ClientboundSectionBlocksUpdatePacket.java:76) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastChanges(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.broadcastChanges(NewChunkHolderVanillaInterface.java:316) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23672!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.lambda$tickChunks$3(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:321) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:379) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:317) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[28Aug2025 22:39:53.201] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:278) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23672!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.blockChanged(NewChunkHolderVanillaInterface.java:292) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23672!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.blockChanged(ServerChunkCache.java:428) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:190) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.initializeFromBase(WaystoneBlockEntityBase.java:223) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:182) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-neoforge-1.21.1-21.1.22.jar%23528!/:21.1.22]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket.create(ClientboundBlockEntityDataPacket.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.getUpdatePacket(BalmBlockEntity.java:51) ~[balm-neoforge-1.21.1-21.0.49.jar%23354!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntity(ChunkHolder.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntityIfNeeded(ChunkHolder.java:235) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.lambda$broadcastChanges$2(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket.runUpdates(ClientboundSectionBlocksUpdatePacket.java:76) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastChanges(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.broadcastChanges(NewChunkHolderVanillaInterface.java:316) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23672!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.lambda$tickChunks$3(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:321) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:379) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:317) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23328!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[28Aug2025 22:39:53.217] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+[28Aug2025 22:39:53.218] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+[28Aug2025 22:40:05.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> la aldea esta en la cima

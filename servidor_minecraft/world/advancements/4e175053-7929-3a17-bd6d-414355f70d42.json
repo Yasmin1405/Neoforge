@@ -140,16 +140,20 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "cold_river": "2025-08-28 04:07:41 +0000",
+      "maple_forest": "2025-08-28 22:39:48 +0000",
       "autumnal_maple_forest": "2025-08-28 04:07:22 +0000",
-      "pumpkin_fields": "2025-08-28 04:23:59 +0000"
+      "pumpkin_fields": "2025-08-28 04:23:59 +0000",
+      "boreal_forest": "2025-08-28 22:40:47 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "cold_river": "2025-08-28 04:07:41 +0000",
+      "maple_forest": "2025-08-28 22:39:48 +0000",
       "autumnal_maple_forest": "2025-08-28 04:07:22 +0000",
-      "pumpkin_fields": "2025-08-28 04:23:59 +0000"
+      "pumpkin_fields": "2025-08-28 04:23:59 +0000",
+      "boreal_forest": "2025-08-28 22:40:47 +0000"
     },
     "done": false
   },
@@ -668,7 +672,8 @@
       "minecraft:pillager": "2025-08-28 04:52:28 +0000",
       "minecraft:skeleton": "2025-08-28 04:25:56 +0000",
       "minecraft:stray": "2025-08-28 05:53:58 +0000",
-      "minecraft:zombie": "2025-08-28 05:02:45 +0000"
+      "minecraft:zombie": "2025-08-28 05:02:45 +0000",
+      "minecraft:husk": "2025-08-28 22:42:15 +0000"
     },
     "done": false
   },
@@ -764,7 +769,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-08-28 04:26:31 +0000"
+      "apple": "2025-08-28 04:26:31 +0000",
+      "golden_apple": "2025-08-28 22:44:18 +0000"
     },
     "done": false
   },
@@ -2469,15 +2475,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-28 22:22:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-08-28 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
     },
     "done": true
   },
@@ -2488,9 +2590,63 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/purple_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_sapling": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-08-28 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
     },
     "done": true
   },
@@ -2500,9 +2656,87 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/pink_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2025-08-28 22:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-08-28 22:22:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:wander_add_map": {
+    "criteria": {
+      "wandering": "2025-08-28 22:42:02 +0000"
     },
     "done": true
   },
@@ -2512,9 +2746,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-08-28 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
     },
     "done": true
   },
@@ -2524,9 +2776,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-08-28 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/black_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
     },
     "done": true
   },
@@ -2536,9 +2824,135 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-28 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_framework": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "happy_airships:recipes/misc/propeller": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/camera": {
+    "criteria": {
+      "has_iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-28 22:41:25 +0000"
     },
     "done": true
   },

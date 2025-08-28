@@ -143,6 +143,7 @@
       "maple_forest": "2025-08-28 22:39:48 +0000",
       "autumnal_maple_forest": "2025-08-28 04:07:22 +0000",
       "pumpkin_fields": "2025-08-28 04:23:59 +0000",
+      "prismachasm": "2025-08-28 23:35:19 +0000",
       "boreal_forest": "2025-08-28 22:40:47 +0000"
     },
     "done": false
@@ -673,6 +674,7 @@
       "minecraft:skeleton": "2025-08-28 04:25:56 +0000",
       "minecraft:phantom": "2025-08-28 23:24:40 +0000",
       "minecraft:stray": "2025-08-28 05:53:58 +0000",
+      "minecraft:spider": "2025-08-28 23:35:09 +0000",
       "minecraft:zombie": "2025-08-28 05:02:45 +0000",
       "minecraft:husk": "2025-08-28 22:42:15 +0000"
     },
@@ -2640,6 +2642,12 @@
       "has_iron_ingot": "2025-08-28 22:42:02 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2025-08-28 23:35:19 +0000"
+    },
+    "done": false
   },
   "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
     "criteria": {

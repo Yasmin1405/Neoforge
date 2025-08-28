@@ -2279,3 +2279,11 @@ java.lang.Throwable: null
 [28Aug2025 23:28:09.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-259, y=67, z=-345} BlockPos{x=-259, y=65, z=-345}
 [28Aug2025 23:29:34.868] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.redirected_neoforge_1.21.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/core/Direction; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonStructureResolverMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/core/Direction; with priority 1000
 [28Aug2025 23:30:30.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no
+[28Aug2025 23:33:53.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> ye
+[28Aug2025 23:35:47.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no
+[28Aug2025 23:35:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> ando picano granito
+[28Aug2025 23:36:08.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no estoy cerca de abedul
+[28Aug2025 23:37:37.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no
+[28Aug2025 23:37:51.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> en el cofre de abajo
+[28Aug2025 23:39:52.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set the time to 1000]
+[28Aug2025 23:41:26.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> ambas sirven creo

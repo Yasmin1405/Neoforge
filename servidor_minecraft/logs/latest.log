@@ -2272,3 +2272,10 @@ java.lang.Throwable: null
 [28Aug2025 23:15:47.925] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Yasame14 cloned (death: true), copying familiar and bed link data
 [28Aug2025 23:15:47.927] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
 [28Aug2025 23:16:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> si
+[28Aug2025 23:24:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> los animales detras de la casa ?
+[28Aug2025 23:24:38.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> a dormi
+[28Aug2025 23:24:40.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex has made the advancement [Night Sky Stalkers]
+[28Aug2025 23:26:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set the weather to clear]
+[28Aug2025 23:28:09.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-259, y=67, z=-345} BlockPos{x=-259, y=65, z=-345}
+[28Aug2025 23:29:34.868] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.redirected_neoforge_1.21.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/core/Direction; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonStructureResolverMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/core/Direction; with priority 1000
+[28Aug2025 23:30:30.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no

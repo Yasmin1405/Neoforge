@@ -3610,6 +3610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 23:22:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-08-28 22:40:41 +0000"

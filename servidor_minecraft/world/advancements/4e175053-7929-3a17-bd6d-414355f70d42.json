@@ -2593,6 +2593,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-08-28 22:19:52 +0000",
+      "wheat": "2025-08-28 23:07:42 +0000",
       "carrot": "2025-08-28 22:20:25 +0000"
     },
     "done": false
@@ -2924,6 +2925,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-28 22:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-28 23:07:42 +0000"
     },
     "done": true
   },

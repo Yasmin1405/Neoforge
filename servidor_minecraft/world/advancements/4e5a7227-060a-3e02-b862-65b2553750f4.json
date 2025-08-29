@@ -667,7 +667,10 @@
       "minecraft:skeleton": "2025-08-29 00:36:46 +0000",
       "minecraft:piglin": "2025-08-28 04:26:02 +0000",
       "minecraft:stray": "2025-08-28 05:53:40 +0000",
-      "minecraft:zombie": "2025-08-28 06:31:13 +0000"
+      "minecraft:spider": "2025-08-29 00:43:39 +0000",
+      "minecraft:wither_skeleton": "2025-08-29 00:47:38 +0000",
+      "minecraft:zombie": "2025-08-28 06:31:13 +0000",
+      "minecraft:husk": "2025-08-29 00:45:38 +0000"
     },
     "done": false
   },
@@ -2100,7 +2103,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-08-28 04:57:05 +0000"
+      "apple": "2025-08-28 04:57:05 +0000",
+      "golden_apple": "2025-08-29 00:43:51 +0000"
     },
     "done": false
   },
@@ -3361,6 +3365,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_jungle_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
@@ -3415,9 +3425,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-28 22:40:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_jungle_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -3460,6 +3482,12 @@
   "valhelsia_furniture:recipes/decorations/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-08-28 23:37:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -3631,6 +3659,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-08-28 23:52:33 +0000"
@@ -3676,6 +3710,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-28 22:40:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -3758,9 +3798,21 @@
     },
     "done": false
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_pink_wool": "2025-08-29 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -3800,6 +3852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-28 22:40:41 +0000"
@@ -3827,6 +3885,18 @@
   "valhelsia_furniture:recipes/decorations/pink_cherry_chair": {
     "criteria": {
       "has_pink_wool": "2025-08-29 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -3872,6 +3942,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
@@ -3908,6 +3984,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_stool": {
     "criteria": {
       "has_pink_wool": "2025-08-29 00:05:30 +0000"
@@ -3917,6 +3999,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-08-29 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4004,6 +4092,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_curtain": {
+    "criteria": {
+      "has_item": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-28 23:37:40 +0000"
@@ -4012,6 +4106,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-08-29 00:57:17 +0000",
       "minecraft:sheep": "2025-08-29 00:03:01 +0000"
     },
     "done": false
@@ -4043,6 +4138,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_stool": {
     "criteria": {
       "has_gray_wool": "2025-08-29 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4286,6 +4387,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_mangrove_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
     "criteria": {
       "has_brown_wool": "2025-08-29 00:35:10 +0000"
@@ -4403,6 +4510,12 @@
   "valhelsia_furniture:recipes/decorations/brown_upholstered_warped_chair": {
     "criteria": {
       "has_brown_wool": "2025-08-29 00:35:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_dark_oak_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4550,6 +4663,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
     "criteria": {
       "has_pink_wool": "2025-08-29 00:05:30 +0000"
@@ -4625,6 +4744,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_chair": {
     "criteria": {
       "has_pink_wool": "2025-08-29 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4724,9 +4849,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_dyes/red": "2025-08-29 00:20:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_cherry_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4739,6 +4876,18 @@
   "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
     "criteria": {
       "has_pink_wool": "2025-08-29 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4775,6 +4924,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-29 00:07:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_warped_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4823,6 +4984,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_warped_chair": {
     "criteria": {
       "has_light_blue_wool": "2025-08-29 00:31:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_spruce_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -4910,6 +5077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-29 00:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
@@ -4946,6 +5119,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_jungle_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-08-29 00:08:22 +0000"
@@ -4973,6 +5152,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -5051,6 +5236,24 @@
   "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
     "criteria": {
       "has_light_blue_wool": "2025-08-29 00:31:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },
@@ -5177,6 +5380,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-28 22:14:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-29 00:56:36 +0000"
     },
     "done": true
   },

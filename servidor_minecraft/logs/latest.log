@@ -2072,3 +2072,8 @@ java.lang.UnsupportedOperationException: Payload omegaconfig:sync may not be sen
 [02Sep2025 05:24:45.396] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 0c9b4ef7-718e-4c6c-8521-c86238c61f4b exited house mode
 [02Sep2025 05:24:49.719] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar ab6e42ff-918f-49a8-83bd-4e5339b74f18 exited house mode
 [02Sep2025 05:24:49.726] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 21be8a8c-4961-4734-9222-75c7fa519d0c exited house mode
+[02Sep2025 05:27:38.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Survival Mode]
+[02Sep2025 05:27:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Creative Mode]
+[02Sep2025 05:29:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Survival Mode]
+[02Sep2025 05:29:18.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Creative Mode]
+[02Sep2025 05:32:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Survival Mode]

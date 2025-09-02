@@ -177,12 +177,19 @@
     "criteria": {
       "silver_birch_forest": "2025-08-29 00:07:54 +0000",
       "cold_river": "2025-08-28 04:06:05 +0000",
-      "maple_forest": "2025-08-28 22:39:47 +0000",
-      "autumnal_maple_forest": "2025-08-28 04:01:02 +0000",
       "redstone_caves": "2025-08-28 22:39:05 +0000",
       "pumpkin_fields": "2025-08-28 04:23:58 +0000",
+      "grassy_beach": "2025-09-02 06:06:27 +0000",
+      "boreal_forest": "2025-08-28 22:40:36 +0000",
+      "blackwood_taiga": "2025-09-02 06:06:56 +0000",
+      "gravel_beach": "2025-09-02 06:05:17 +0000",
+      "maple_forest": "2025-08-28 22:39:47 +0000",
+      "autumnal_maple_forest": "2025-08-28 04:01:02 +0000",
+      "muddy_river": "2025-09-02 06:04:47 +0000",
+      "golden_boreal_taiga": "2025-09-02 06:05:58 +0000",
       "prismachasm": "2025-08-28 04:18:14 +0000",
-      "boreal_forest": "2025-08-28 22:40:36 +0000"
+      "magnolia_highlands": "2025-09-02 06:03:56 +0000",
+      "lupine_plains": "2025-09-02 06:04:00 +0000"
     },
     "done": false
   },
@@ -190,10 +197,17 @@
     "criteria": {
       "silver_birch_forest": "2025-08-29 00:07:54 +0000",
       "cold_river": "2025-08-28 04:06:05 +0000",
+      "pumpkin_fields": "2025-08-28 04:23:58 +0000",
+      "grassy_beach": "2025-09-02 06:06:27 +0000",
+      "boreal_forest": "2025-08-28 22:40:36 +0000",
+      "blackwood_taiga": "2025-09-02 06:06:56 +0000",
+      "gravel_beach": "2025-09-02 06:05:17 +0000",
       "maple_forest": "2025-08-28 22:39:47 +0000",
       "autumnal_maple_forest": "2025-08-28 04:01:02 +0000",
-      "pumpkin_fields": "2025-08-28 04:23:58 +0000",
-      "boreal_forest": "2025-08-28 22:40:36 +0000"
+      "muddy_river": "2025-09-02 06:04:47 +0000",
+      "golden_boreal_taiga": "2025-09-02 06:05:58 +0000",
+      "magnolia_highlands": "2025-09-02 06:03:56 +0000",
+      "lupine_plains": "2025-09-02 06:04:00 +0000"
     },
     "done": false
   },
@@ -1313,7 +1327,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-09-02 06:13:59 +0000",
       "minecraft:flower_forest": "2025-08-28 05:28:30 +0000",
+      "minecraft:ocean": "2025-09-02 06:14:08 +0000",
+      "minecraft:deep_ocean": "2025-09-02 06:14:10 +0000",
       "minecraft:river": "2025-08-28 04:44:02 +0000",
       "minecraft:dripstone_caves": "2025-08-28 06:24:43 +0000",
       "minecraft:plains": "2025-08-28 04:43:27 +0000"
@@ -3066,6 +3083,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:orchard": "2025-09-02 06:03:47 +0000",
       "biomeswevegone:coconino_meadow": "2025-08-28 05:47:03 +0000"
     },
     "done": false
@@ -3182,6 +3200,7 @@
     "criteria": {
       "aspen_glade": "2025-08-28 06:04:44 +0000",
       "spider_nest": "2025-08-28 05:52:32 +0000",
+      "dune_beach": "2025-09-02 06:22:14 +0000",
       "seasonal_forest": "2025-08-28 05:50:37 +0000",
       "prairie": "2025-09-02 05:45:47 +0000"
     },
@@ -5469,9 +5488,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-02 06:10:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
     "criteria": {
       "has_hay_block": "2025-09-02 05:32:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-09-02 06:10:43 +0000"
     },
     "done": true
   },
@@ -5480,6 +5511,18 @@
       "fighting_nightmares_0": "2025-09-02 05:21:30 +0000"
     },
     "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/prismarine_shard_from_seashells": {
+    "criteria": {
+      "has_seashells": "2025-09-02 06:08:18 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-09-02 06:17:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
@@ -5541,6 +5584,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-09-02 06:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
     "criteria": {
       "has_bolt_armor_trim_smithing_template": "2025-09-02 05:32:41 +0000"
@@ -5580,6 +5629,12 @@
   "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
     "criteria": {
       "has_hay_block": "2025-09-02 05:32:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-09-02 06:10:43 +0000"
     },
     "done": true
   },

@@ -140,21 +140,35 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "cold_river": "2025-08-28 04:07:41 +0000",
+      "pumpkin_fields": "2025-08-28 04:23:59 +0000",
+      "grassy_beach": "2025-09-02 06:06:29 +0000",
+      "boreal_forest": "2025-08-28 22:40:47 +0000",
+      "blackwood_taiga": "2025-09-02 06:06:59 +0000",
+      "gravel_beach": "2025-09-02 06:05:18 +0000",
       "maple_forest": "2025-08-28 22:39:48 +0000",
       "autumnal_maple_forest": "2025-08-28 04:07:22 +0000",
-      "pumpkin_fields": "2025-08-28 04:23:59 +0000",
+      "muddy_river": "2025-09-02 06:04:47 +0000",
+      "golden_boreal_taiga": "2025-09-02 06:06:02 +0000",
       "prismachasm": "2025-08-28 23:35:19 +0000",
-      "boreal_forest": "2025-08-28 22:40:47 +0000"
+      "magnolia_highlands": "2025-09-02 06:03:56 +0000",
+      "lupine_plains": "2025-09-02 06:04:00 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "gravel_beach": "2025-09-02 06:05:18 +0000",
       "cold_river": "2025-08-28 04:07:41 +0000",
       "maple_forest": "2025-08-28 22:39:48 +0000",
       "autumnal_maple_forest": "2025-08-28 04:07:22 +0000",
+      "muddy_river": "2025-09-02 06:04:47 +0000",
       "pumpkin_fields": "2025-08-28 04:23:59 +0000",
-      "boreal_forest": "2025-08-28 22:40:47 +0000"
+      "golden_boreal_taiga": "2025-09-02 06:06:02 +0000",
+      "grassy_beach": "2025-09-02 06:06:29 +0000",
+      "magnolia_highlands": "2025-09-02 06:03:56 +0000",
+      "boreal_forest": "2025-08-28 22:40:47 +0000",
+      "lupine_plains": "2025-09-02 06:04:00 +0000",
+      "blackwood_taiga": "2025-09-02 06:06:59 +0000"
     },
     "done": false
   },
@@ -1008,7 +1022,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-09-02 06:14:00 +0000",
       "minecraft:flower_forest": "2025-08-28 05:27:52 +0000",
+      "minecraft:ocean": "2025-09-02 06:16:54 +0000",
+      "minecraft:deep_ocean": "2025-09-02 06:14:16 +0000",
       "minecraft:river": "2025-08-28 04:44:02 +0000",
       "minecraft:meadow": "2025-08-28 05:28:00 +0000",
       "minecraft:dripstone_caves": "2025-08-28 06:23:37 +0000",
@@ -2183,6 +2200,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:orchard": "2025-09-02 06:03:46 +0000",
       "biomeswevegone:coconino_meadow": "2025-08-28 05:47:22 +0000"
     },
     "done": false
@@ -2215,6 +2233,7 @@
     "criteria": {
       "aspen_glade": "2025-08-28 06:04:48 +0000",
       "spider_nest": "2025-08-28 05:52:31 +0000",
+      "dune_beach": "2025-09-02 06:22:14 +0000",
       "seasonal_forest": "2025-08-28 05:50:39 +0000",
       "prairie": "2025-09-02 05:45:47 +0000"
     },
@@ -3538,6 +3557,12 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-09-02 06:17:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-02 05:48:24 +0000"
@@ -3838,6 +3863,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-02 06:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-09-02 04:51:32 +0000"
@@ -3967,6 +3998,12 @@
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-02 05:48:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-02 06:05:51 +0000"
     },
     "done": true
   },

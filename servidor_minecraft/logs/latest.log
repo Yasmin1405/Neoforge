@@ -2053,3 +2053,22 @@ java.lang.UnsupportedOperationException: Payload omegaconfig:sync may not be sen
 [02Sep2025 04:53:36.153] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [02Sep2025 04:59:29.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was shot by Celxex
 [02Sep2025 04:59:57.726] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.redirected_neoforge_1.21.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/core/Direction; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonStructureResolverMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/core/Direction; with priority 1000
+[02Sep2025 05:18:24.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Creative Mode]
+[02Sep2025 05:20:02.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was slain by Nightmare Stalker
+[02Sep2025 05:20:16.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was slain by Nightmare Stalker
+[02Sep2025 05:20:38.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[02Sep2025 05:20:45.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was not rescued in time
+[02Sep2025 05:20:45.487] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Yasame14 with unique ID travelersbackpack.standard_02.09.2025-05.20.45.dat
+[02Sep2025 05:20:46.874] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Yasame14 cloned (death: true), copying familiar and bed link data
+[02Sep2025 05:20:46.875] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[02Sep2025 05:21:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 withered away while fighting Nightmare Stalker
+[02Sep2025 05:21:05.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was not rescued in time
+[02Sep2025 05:21:05.435] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Yasame14 with unique ID travelersbackpack.standard_02.09.2025-05.21.05.dat
+[02Sep2025 05:21:06.632] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Yasame14 cloned (death: true), copying familiar and bed link data
+[02Sep2025 05:21:06.633] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[02Sep2025 05:21:12.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Survival Mode]
+[02Sep2025 05:21:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 has reached the goal [Fighting Nightmares]
+[02Sep2025 05:24:10.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Creative Mode]
+[02Sep2025 05:24:45.396] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 0c9b4ef7-718e-4c6c-8521-c86238c61f4b exited house mode
+[02Sep2025 05:24:49.719] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar ab6e42ff-918f-49a8-83bd-4e5339b74f18 exited house mode
+[02Sep2025 05:24:49.726] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 21be8a8c-4961-4734-9222-75c7fa519d0c exited house mode

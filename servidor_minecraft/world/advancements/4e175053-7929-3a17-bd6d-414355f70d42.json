@@ -1028,6 +1028,7 @@
       "minecraft:deep_ocean": "2025-09-02 06:14:16 +0000",
       "minecraft:river": "2025-08-28 04:44:02 +0000",
       "minecraft:meadow": "2025-08-28 05:28:00 +0000",
+      "minecraft:birch_forest": "2025-09-02 06:24:27 +0000",
       "minecraft:dripstone_caves": "2025-08-28 06:23:37 +0000",
       "minecraft:plains": "2025-08-28 04:43:24 +0000"
     },
@@ -3533,6 +3534,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-02 06:28:06 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-02 05:58:43 +0000"
@@ -3938,6 +3945,12 @@
   "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
     "criteria": {
       "has_gray_wool": "2025-09-02 05:32:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-09-02 06:26:09 +0000"
     },
     "done": true
   },

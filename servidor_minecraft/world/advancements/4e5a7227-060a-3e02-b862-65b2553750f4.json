@@ -1332,6 +1332,7 @@
       "minecraft:ocean": "2025-09-02 06:14:08 +0000",
       "minecraft:deep_ocean": "2025-09-02 06:14:10 +0000",
       "minecraft:river": "2025-08-28 04:44:02 +0000",
+      "minecraft:birch_forest": "2025-09-02 06:24:36 +0000",
       "minecraft:dripstone_caves": "2025-08-28 06:24:43 +0000",
       "minecraft:plains": "2025-08-28 04:43:27 +0000"
     },
@@ -5605,6 +5606,12 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-09-02 05:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-09-02 06:26:48 +0000"
     },
     "done": true
   },

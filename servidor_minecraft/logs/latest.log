@@ -3352,3 +3352,67 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [02Sep2025 06:26:00.625] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [02Sep2025 06:26:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex has made the advancement [Junior Summoner]
 [02Sep2025 06:28:06.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex has made the advancement [Dark Metallurgy]
+[02Sep2025 06:28:31.254] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[02Sep2025 06:28:31.257] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[02Sep2025 06:28:31.258] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[02Sep2025 06:28:31.484] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[02Sep2025 06:28:31.485] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[02Sep2025 06:28:33.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
+[02Sep2025 06:29:28.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex died
+[02Sep2025 06:29:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[02Sep2025 06:29:37.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was not rescued in time
+[02Sep2025 06:29:38.004] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Yasame14 with unique ID travelersbackpack.standard_02.09.2025-06.29.37.dat
+[02Sep2025 06:29:49.926] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Yasame14 cloned (death: true), copying familiar and bed link data
+[02Sep2025 06:29:49.927] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[02Sep2025 06:29:59.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex was not rescued in time
+[02Sep2025 06:30:01.249] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Celxex cloned (death: true), copying familiar and bed link data
+[02Sep2025 06:30:01.250] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[02Sep2025 06:30:01.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yasame14 lost connection: Disconnected
+[02Sep2025 06:30:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 left the game
+[02Sep2025 06:30:33.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celxex lost connection: Disconnected
+[02Sep2025 06:30:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex left the game
+[02Sep2025 06:30:49.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Sep2025 06:30:49.961] [C2ME Storage #24/INFO] [C2ME Storage/]: Storage thread Thread[#117,C2ME Storage #24,5,SERVER] stopped
+[02Sep2025 06:30:49.961] [C2ME Storage #22/INFO] [C2ME Storage/]: Storage thread Thread[#113,C2ME Storage #22,5,SERVER] stopped
+[02Sep2025 06:30:49.961] [C2ME Storage #23/INFO] [C2ME Storage/]: Storage thread Thread[#114,C2ME Storage #23,5,SERVER] stopped
+[02Sep2025 06:30:49.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Sep2025 06:30:49.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Sep2025 06:30:49.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Sep2025 06:30:49.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerLevel[world]/minecraft:overworld: waiting for 9207 chunks to unload
+[02Sep2025 06:30:50.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Sep2025 06:30:51.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/nmr:astral_plane
+[02Sep2025 06:30:51.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[02Sep2025 06:30:51.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/kattersstructures:deep_blue
+[02Sep2025 06:30:51.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Sep2025 06:30:51.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Sep2025 06:30:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Sep2025 06:30:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (astral_plane): All chunks are saved
+[02Sep2025 06:30:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[02Sep2025 06:30:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_blue): All chunks are saved
+[02Sep2025 06:30:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Sep2025 06:30:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Sep2025 06:30:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Sep2025 06:30:51.965] [C2ME Storage #3/INFO] [C2ME Storage/]: Storage thread Thread[#86,C2ME Storage #3,5,SERVER] stopped
+[02Sep2025 06:30:52.037] [C2ME Storage #2/INFO] [C2ME Storage/]: Storage thread Thread[#85,C2ME Storage #2,5,SERVER] stopped
+[02Sep2025 06:30:52.068] [C2ME Storage #1/INFO] [C2ME Storage/]: Storage thread Thread[#84,C2ME Storage #1,5,SERVER] stopped
+[02Sep2025 06:30:52.068] [C2ME Storage #4/INFO] [C2ME Storage/]: Storage thread Thread[#88,C2ME Storage #4,5,SERVER] stopped
+[02Sep2025 06:30:52.068] [C2ME Storage #5/INFO] [C2ME Storage/]: Storage thread Thread[#89,C2ME Storage #5,5,SERVER] stopped
+[02Sep2025 06:30:52.068] [C2ME Storage #6/INFO] [C2ME Storage/]: Storage thread Thread[#90,C2ME Storage #6,5,SERVER] stopped
+[02Sep2025 06:30:52.069] [C2ME Storage #9/INFO] [C2ME Storage/]: Storage thread Thread[#94,C2ME Storage #9,5,SERVER] stopped
+[02Sep2025 06:30:52.069] [C2ME Storage #8/INFO] [C2ME Storage/]: Storage thread Thread[#93,C2ME Storage #8,5,SERVER] stopped
+[02Sep2025 06:30:52.069] [C2ME Storage #7/INFO] [C2ME Storage/]: Storage thread Thread[#92,C2ME Storage #7,5,SERVER] stopped
+[02Sep2025 06:30:52.070] [C2ME Storage #12/INFO] [C2ME Storage/]: Storage thread Thread[#97,C2ME Storage #12,5,SERVER] stopped
+[02Sep2025 06:30:52.070] [C2ME Storage #11/INFO] [C2ME Storage/]: Storage thread Thread[#96,C2ME Storage #11,5,SERVER] stopped
+[02Sep2025 06:30:52.070] [C2ME Storage #10/INFO] [C2ME Storage/]: Storage thread Thread[#95,C2ME Storage #10,5,SERVER] stopped
+[02Sep2025 06:30:52.071] [C2ME Storage #14/INFO] [C2ME Storage/]: Storage thread Thread[#99,C2ME Storage #14,5,SERVER] stopped
+[02Sep2025 06:30:52.070] [C2ME Storage #15/INFO] [C2ME Storage/]: Storage thread Thread[#100,C2ME Storage #15,5,SERVER] stopped
+[02Sep2025 06:30:52.071] [C2ME Storage #13/INFO] [C2ME Storage/]: Storage thread Thread[#98,C2ME Storage #13,5,SERVER] stopped
+[02Sep2025 06:30:52.071] [C2ME Storage #18/INFO] [C2ME Storage/]: Storage thread Thread[#103,C2ME Storage #18,5,SERVER] stopped
+[02Sep2025 06:30:52.071] [C2ME Storage #17/INFO] [C2ME Storage/]: Storage thread Thread[#102,C2ME Storage #17,5,SERVER] stopped
+[02Sep2025 06:30:52.072] [C2ME Storage #16/INFO] [C2ME Storage/]: Storage thread Thread[#101,C2ME Storage #16,5,SERVER] stopped
+[02Sep2025 06:30:52.074] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easyanvils-server.toml
+[02Sep2025 06:30:52.074] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config leavesbegone-server.toml
+[02Sep2025 06:30:52.074] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config mutantmonsters-server.toml
+[02Sep2025 06:30:52.074] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config illagerinvasion-server.toml
+[02Sep2025 06:30:52.074] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config hangglider-server.toml
+[02Sep2025 06:30:52.075] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easymagic-server.toml

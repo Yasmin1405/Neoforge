@@ -1881,6 +1881,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "spruce_house_small_3": "2025-09-07 03:46:57 +0000",
       "oak_house_large_1": "2025-08-28 05:41:09 +0000",
       "oak_tree_1": "2025-08-28 05:26:06 +0000"
     },
@@ -4986,6 +4987,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-07 03:51:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_dyes/red": "2025-09-07 03:05:03 +0000"
@@ -5040,6 +5047,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-07 03:51:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-09-07 03:05:03 +0000"
@@ -5061,6 +5074,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-09-07 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-07 03:51:14 +0000"
     },
     "done": true
   },

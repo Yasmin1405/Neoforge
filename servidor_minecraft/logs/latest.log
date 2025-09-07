@@ -2146,3 +2146,45 @@ java.lang.UnsupportedOperationException: Payload omegaconfig:sync may not be sen
 [07Sep2025 03:46:14.390] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [07Sep2025 03:46:17.991] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [07Sep2025 03:46:31.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['⚔ Xanthe Spiderborn'/14422, l='ServerLevel[world]', x=-294.36, y=132.00, z=184.18] died: ⚔ Xanthe Spiderborn burned to death
+[07Sep2025 03:50:36.073] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 388cd22b-724d-45ad-aeea-4a1ec17631d2 exited house mode
+[07Sep2025 03:50:36.076] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar b28ae284-d39c-4dc7-8105-c3dc405f5a6f exited house mode
+[07Sep2025 03:50:36.077] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 55a9b553-2b15-48dd-a82d-9b72625257c4 exited house mode
+[07Sep2025 03:50:53.400] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:50:54.748] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:05.187] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:05.188] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:05.188] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:14.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex has made the advancement [Spooky Scary Skeleton]
+[07Sep2025 03:51:21.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 has made the advancement [Spooky Scary Skeleton]
+[07Sep2025 03:51:42.907] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:42.907] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:42.908] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:46.318] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 388cd22b-724d-45ad-aeea-4a1ec17631d2 exited house mode
+[07Sep2025 03:51:46.319] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar b28ae284-d39c-4dc7-8105-c3dc405f5a6f exited house mode
+[07Sep2025 03:51:46.328] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 55a9b553-2b15-48dd-a82d-9b72625257c4 exited house mode
+[07Sep2025 03:51:59.707] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:59.708] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:51:59.708] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:52:04.107] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:52:04.107] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:52:04.109] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 80ad5c5f-28ec-404c-a68d-34c776675bf7 exited house mode
+[07Sep2025 03:52:34.477] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar babdcf7b-9bf6-49d2-9230-6a3a27c093d6 exited house mode
+[07Sep2025 03:52:34.477] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 562facfd-5aae-4ceb-be4a-25097af4cecd exited house mode
+[07Sep2025 03:55:38.476] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 12b81143-e469-4f89-bf27-db64cf94cb78 exited house mode
+[07Sep2025 03:55:38.477] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:55:38.478] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:55:38.478] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:55:38.479] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:55:40.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set the time to 1000]
+[07Sep2025 03:55:50.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/8906, l='ServerLevel[world]', x=-273.50, y=53.56, z=115.50] died, message: 'Librarian suffocated in a wall'
+[07Sep2025 03:55:58.982] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 562facfd-5aae-4ceb-be4a-25097af4cecd exited house mode
+[07Sep2025 03:55:58.983] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar babdcf7b-9bf6-49d2-9230-6a3a27c093d6 exited house mode
+[07Sep2025 03:56:05.740] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 388cd22b-724d-45ad-aeea-4a1ec17631d2 exited house mode
+[07Sep2025 03:56:05.740] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar b28ae284-d39c-4dc7-8105-c3dc405f5a6f exited house mode
+[07Sep2025 03:56:05.741] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar 55a9b553-2b15-48dd-a82d-9b72625257c4 exited house mode
+[07Sep2025 03:56:29.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was slain by Skeleton
+[07Sep2025 03:56:38.991] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:56:38.994] [Server thread/INFO] [net.alshanex.familiarslib.FamiliarsLib/]: Familiar b10ae3c2-c1d8-4daf-822c-e6361fb77d9e exited house mode
+[07Sep2025 03:56:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was slain by Skeleton
+[07Sep2025 03:57:24.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[07Sep2025 03:57:39.984] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'

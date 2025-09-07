@@ -2698,6 +2698,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "spruce_house_small_3": "2025-09-07 03:46:19 +0000",
       "oak_house_large_1": "2025-08-28 05:41:10 +0000",
       "oak_tree_1": "2025-08-28 05:26:04 +0000"
     },
@@ -4173,6 +4174,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-08-29 00:11:36 +0000",
+      "sweet_berries": "2025-09-07 03:46:04 +0000",
       "wheat": "2025-08-28 23:45:59 +0000"
     },
     "done": false
@@ -5888,6 +5890,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 03:24:16 +0000"
@@ -6062,6 +6070,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-07 03:51:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_planks": {
     "criteria": {
       "has_logs": "2025-09-07 03:31:25 +0000"
@@ -6116,6 +6130,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-07 03:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 03:24:16 +0000"
@@ -6128,9 +6148,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-09-07 03:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-07 03:51:21 +0000"
     },
     "done": true
   },

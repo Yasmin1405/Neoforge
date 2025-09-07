@@ -2039,3 +2039,41 @@ java.lang.UnsupportedOperationException: Payload omegaconfig:sync may not be sen
 [07Sep2025 03:27:07.454] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [07Sep2025 03:27:10.882] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [07Sep2025 03:27:10.882] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 03:28:30.822] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Processing death event for familiar 6f499adb-b28c-42aa-9560-b35f3b3e8bd6 with health 0.0 (BEFORE die() method)
+[07Sep2025 03:28:30.822] [Server thread/WARN] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Dying familiar 6f499adb-b28c-42aa-9560-b35f3b3e8bd6 has no valid owner
+[07Sep2025 03:30:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[07Sep2025 03:31:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[07Sep2025 03:32:45.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[07Sep2025 03:33:17.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set the time to 1000]
+[07Sep2025 03:33:31.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex withered away while fighting Klaudius Bloodglare
+[07Sep2025 03:33:35.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex was not rescued in time
+[07Sep2025 03:33:35.885] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Celxex with unique ID travelersbackpack.standard_07.09.2025-03.33.35.dat
+[07Sep2025 03:33:37.292] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Celxex cloned (death: true), copying familiar and bed link data
+[07Sep2025 03:33:37.292] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[07Sep2025 03:33:46.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Teleported Celxex to Yasame14]
+[07Sep2025 03:34:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex was slain by Klaudius Bloodglare
+[07Sep2025 03:34:21.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex was not rescued in time
+[07Sep2025 03:34:21.689] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Celxex with unique ID travelersbackpack.standard_07.09.2025-03.34.21.dat
+[07Sep2025 03:34:23.524] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Celxex cloned (death: true), copying familiar and bed link data
+[07Sep2025 03:34:23.524] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[07Sep2025 03:34:27.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Teleported Celxex to Yasame14]
+[07Sep2025 03:34:42.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex was slain by Klaudius Bloodglare
+[07Sep2025 03:34:46.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex was not rescued in time
+[07Sep2025 03:34:46.432] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Celxex with unique ID travelersbackpack.standard_07.09.2025-03.34.46.dat
+[07Sep2025 03:34:47.486] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Celxex cloned (death: true), copying familiar and bed link data
+[07Sep2025 03:34:47.487] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[07Sep2025 03:34:51.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Teleported Celxex to Yasame14]
+[07Sep2025 03:35:17.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex withered away while fighting Klaudius Bloodglare
+[07Sep2025 03:35:19.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[07Sep2025 03:35:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex was not rescued in time
+[07Sep2025 03:35:21.607] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Celxex with unique ID travelersbackpack.standard_07.09.2025-03.35.21.dat
+[07Sep2025 03:35:23.008] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Player Celxex cloned (death: true), copying familiar and bed link data
+[07Sep2025 03:35:23.008] [Server thread/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Successfully copied 0 familiars and 0 bed links to new player
+[07Sep2025 03:35:27.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Teleported Celxex to Yasame14]
+[07Sep2025 03:35:37.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex has made the advancement [Shiny!]
+[07Sep2025 03:35:37.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/8602, l='ServerLevel[world]', x=-424.49, y=63.00, z=84.51] died: Klaudius Bloodglare was slain by Celxex
+[07Sep2025 03:35:37.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[07Sep2025 03:35:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 has made the advancement [Imbuements]
+[07Sep2025 03:35:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 died
+[07Sep2025 03:36:59.734] [c2me-worker-0/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method getBuryContribution in c2me-opts-worldgen-vanilla.mixins.json:structure_weight_sampler.MixinStructureWeightSampler from mod c2me_opts_worldgen_vanilla cannot reduce visibiliy of PROTECTED target method, visibility will be upgraded.
+[07Sep2025 03:37:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 was slain by Bokoblin

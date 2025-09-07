@@ -857,6 +857,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "silver_birch_log": "2025-09-07 03:32:29 +0000",
+      "larch_log": "2025-09-07 03:31:02 +0000",
       "maple_log": "2025-08-28 04:27:17 +0000"
     },
     "done": false
@@ -2515,6 +2517,7 @@
       "sugar_cane": "2025-09-07 02:52:46 +0000",
       "onion": "2025-08-29 00:18:02 +0000",
       "potato": "2025-08-28 22:19:52 +0000",
+      "sweet_berries": "2025-09-07 03:24:02 +0000",
       "wheat": "2025-08-28 23:07:42 +0000",
       "melon": "2025-08-29 00:29:25 +0000",
       "beetroot": "2025-09-04 04:03:22 +0000",
@@ -4790,6 +4793,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-07 03:31:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-09-07 03:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-09-07 03:05:03 +0000"
@@ -4802,6 +4817,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 03:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-09-07 03:19:04 +0000"
@@ -4811,6 +4832,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-07 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-09-07 03:32:29 +0000"
     },
     "done": true
   },
@@ -4838,6 +4865,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-09-07 03:31:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-09-07 03:29:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-09-07 03:05:03 +0000"
@@ -4862,6 +4901,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-09-07 03:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-09-07 03:05:03 +0000"
@@ -4880,9 +4925,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-09-07 03:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-07 03:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-09-07 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 03:29:18 +0000"
     },
     "done": true
   },
@@ -4898,9 +4961,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-07 03:31:02 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/stripped_oak_post": {
     "criteria": {
       "has_stripped_oak_log": "2025-09-07 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
+    "criteria": {
+      "has_spruce_log": "2025-09-07 03:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-09-07 03:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-07 03:31:27 +0000"
     },
     "done": true
   },
@@ -4919,6 +5006,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 03:32:29 +0000"
     },
     "done": true
   },

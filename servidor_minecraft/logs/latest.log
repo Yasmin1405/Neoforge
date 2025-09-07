@@ -2765,3 +2765,401 @@ java.lang.UnsupportedOperationException: Payload omegaconfig:sync may not be sen
 [07Sep2025 04:17:08.007] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [07Sep2025 04:17:08.007] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [07Sep2025 04:17:08.007] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:18:04.653] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.656] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.657] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.657] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.658] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.661] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.663] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.664] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.664] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.665] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.665] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.666] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.666] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.674] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.674] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.674] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.675] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.675] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.675] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.676] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.676] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: crazy_chambers:spawner/breeze_spawner
+[07Sep2025 04:18:04.684] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.684] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.685] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.685] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.685] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: crazy_chambers:spawner/breeze_spawner
+[07Sep2025 04:18:04.692] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.693] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.693] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.694] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.701] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.703] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.703] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.711] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.713] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.719] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.719] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.720] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.721] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.724] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.725] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.730] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.742] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.745] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.746] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.750] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.772] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.773] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.776] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.776] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.784] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.794] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.798] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.802] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.802] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:04.808] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:05.118] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:05.145] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:05.146] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:05.155] [c2me-worker-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:18:06.160] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:18:06.160] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:18:06.160] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:21.992] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:21.993] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:26.337] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:26.338] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:26.340] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:26.340] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:27.007] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:27.007] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:19:27.332] [c2me-worker-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-32, y=-10, z=9}
+[07Sep2025 04:19:38.336] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:278) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.blockChanged(NewChunkHolderVanillaInterface.java:292) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.blockChanged(ServerChunkCache.java:428) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.initializeWaystone(WaystoneBlockEntityBase.java:209) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:178) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket.create(ClientboundBlockEntityDataPacket.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.getUpdatePacket(BalmBlockEntity.java:51) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntity(ChunkHolder.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntityIfNeeded(ChunkHolder.java:235) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.lambda$broadcastChanges$2(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket.runUpdates(ClientboundSectionBlocksUpdatePacket.java:76) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastChanges(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.broadcastChanges(NewChunkHolderVanillaInterface.java:316) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.lambda$tickChunks$3(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:321) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:379) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:317) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07Sep2025 04:19:38.347] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:278) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.blockChanged(NewChunkHolderVanillaInterface.java:292) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.blockChanged(ServerChunkCache.java:428) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:190) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket.create(ClientboundBlockEntityDataPacket.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.getUpdatePacket(BalmBlockEntity.java:51) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntity(ChunkHolder.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntityIfNeeded(ChunkHolder.java:235) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.lambda$broadcastChanges$2(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket.runUpdates(ClientboundSectionBlocksUpdatePacket.java:76) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastChanges(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.broadcastChanges(NewChunkHolderVanillaInterface.java:316) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.lambda$tickChunks$3(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:321) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:379) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:317) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07Sep2025 04:19:38.357] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:278) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.blockChanged(NewChunkHolderVanillaInterface.java:292) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.blockChanged(ServerChunkCache.java:428) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.initializeFromBase(WaystoneBlockEntityBase.java:225) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:182) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket.create(ClientboundBlockEntityDataPacket.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.getUpdatePacket(BalmBlockEntity.java:51) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntity(ChunkHolder.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntityIfNeeded(ChunkHolder.java:235) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.lambda$broadcastChanges$2(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket.runUpdates(ClientboundSectionBlocksUpdatePacket.java:76) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastChanges(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.broadcastChanges(NewChunkHolderVanillaInterface.java:316) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.lambda$tickChunks$3(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:321) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:379) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:317) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07Sep2025 04:19:38.366] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:278) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.blockChanged(NewChunkHolderVanillaInterface.java:292) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.blockChanged(ServerChunkCache.java:428) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:190) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/waystones@21.1.22/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-neoforge-1.21.1-21.1.22.jar%23526!/:21.1.22]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket.create(ClientboundBlockEntityDataPacket.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/balm@21.0.49/net.blay09.mods.balm.common.BalmBlockEntity.getUpdatePacket(BalmBlockEntity.java:51) ~[balm-neoforge-1.21.1-21.0.49.jar%23353!/:21.0.49]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntity(ChunkHolder.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastBlockEntityIfNeeded(ChunkHolder.java:235) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.lambda$broadcastChanges$2(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket.runUpdates(ClientboundSectionBlocksUpdatePacket.java:76) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkHolder.broadcastChanges(ChunkHolder.java:227) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.73+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.broadcastChanges(NewChunkHolderVanillaInterface.java:316) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.73.jar%23670!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.lambda$tickChunks$3(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:321) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:379) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:317) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23327!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07Sep2025 04:19:38.860] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.861] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.861] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.862] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.863] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: crazy_chambers:melee_spawner
+[07Sep2025 04:19:38.864] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.864] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.866] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.868] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: crazy_chambers:spawner/breeze_spawner
+[07Sep2025 04:19:38.868] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.868] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.869] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.870] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.873] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.874] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.874] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.875] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.877] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.878] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.881] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: crazy_chambers:melee_spawner
+[07Sep2025 04:19:38.882] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.883] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.884] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.884] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.885] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.892] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.896] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.900] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.900] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.902] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.905] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.910] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.911] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.916] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.917] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.925] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.926] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.930] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.930] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.934] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.936] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.937] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.942] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.954] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.954] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.954] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.955] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.958] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.973] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.992] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.993] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:19:38.998] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:south
+[07Sep2025 04:21:05.935] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:05.936] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:05.936] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:05.936] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:06.835] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:06.836] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:07.169] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:07.170] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:07.194] [c2me-worker-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id lootr:lootr_minecart
+[07Sep2025 04:21:07.195] [c2me-worker-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:07.420] [c2me-worker-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1375, y=118, z=681}
+[07Sep2025 04:21:07.827] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:07.827] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.305] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.305] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.305] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.306] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.307] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.307] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.325] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:12.667] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:21:12.668] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:21:12.669] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:21:13.210] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:13.249] [c2me-worker-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id lootr:lootr_minecart
+[07Sep2025 04:21:13.554] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:21:13.554] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:21:13.554] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:21:13.626] [c2me-worker-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1367, y=118, z=679}
+[07Sep2025 04:21:13.710] [c2me-worker-0/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-204, y=57, z=-81}
+[07Sep2025 04:21:13.711] [c2me-worker-0/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-205, y=57, z=-81}
+[07Sep2025 04:21:13.711] [c2me-worker-0/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-206, y=57, z=-81}
+[07Sep2025 04:21:13.711] [c2me-worker-0/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-207, y=57, z=-81}
+[07Sep2025 04:21:13.711] [c2me-worker-0/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-208, y=57, z=-81}
+[07Sep2025 04:21:14.005] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:14.005] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:14.071] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:14.071] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:17.128] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:17.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:17.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:17.142] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:17.143] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:17.188] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:19.134] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:19.716] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:21.232] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:21.234] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:21.295] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:23.548] [c2me-worker-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:27.255] [c2me-worker-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=119, y=160, z=-95}
+[07Sep2025 04:21:36.381] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:36.381] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:36.381] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:36.382] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:36.382] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:36.440] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:36.440] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:39.011] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 has made the advancement [Fungus Among Us]
+[07Sep2025 04:21:39.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 has made the advancement [Village Explorer]
+[07Sep2025 04:21:40.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex has made the advancement [Fungus Among Us]
+[07Sep2025 04:21:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex has made the advancement [Village Explorer]
+[07Sep2025 04:21:52.134] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:52.134] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:52.134] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:21:52.135] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:22:01.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[07Sep2025 04:22:01.389] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:22:01.389] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:22:01.390] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:22:01.390] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:23:49.374] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.375] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.375] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.375] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.375] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.376] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.376] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.376] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.376] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:23:49.376] [c2me-worker-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[07Sep2025 04:24:54.256] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna_na], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/red_rock], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp_fortified]] from pos BlockPos{x=-837, y=74, z=981}
+[07Sep2025 04:25:00.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5922ms or 118 ticks behind
+[07Sep2025 04:25:29.100] [c2me-worker-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=135, y=95, z=-90}
+[07Sep2025 04:25:32.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celxex moved too quickly! -4.147864649321605,1.604424101326714,-9.026627179347543
+[07Sep2025 04:25:33.681] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[07Sep2025 04:25:33.682] [c2me-worker-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[07Sep2025 04:25:44.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yasame14 moved too quickly! 9.612102916145773,1.7461092740512356,3.311931887782407
+[07Sep2025 04:25:48.761] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:25:48.762] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:25:48.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:25:49.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yasame14 lost connection: Disconnected
+[07Sep2025 04:25:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yasame14 left the game
+[07Sep2025 04:25:53.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38424ms or 768 ticks behind
+[07Sep2025 04:25:58.434] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:25:58.434] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:25:58.435] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:03.454] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:03.454] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:03.454] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:15.733] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:15.733] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:15.734] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:34.105] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[07Sep2025 04:26:37.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Celxex lost connection: Disconnected
+[07Sep2025 04:26:37.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Celxex left the game
+[07Sep2025 04:26:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Sep2025 04:26:53.011] [C2ME Storage #24/INFO] [C2ME Storage/]: Storage thread Thread[#124,C2ME Storage #24,5,SERVER] stopped
+[07Sep2025 04:26:53.011] [C2ME Storage #23/INFO] [C2ME Storage/]: Storage thread Thread[#123,C2ME Storage #23,5,SERVER] stopped
+[07Sep2025 04:26:53.012] [C2ME Storage #22/INFO] [C2ME Storage/]: Storage thread Thread[#122,C2ME Storage #22,5,SERVER] stopped
+[07Sep2025 04:26:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Sep2025 04:26:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Sep2025 04:26:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Sep2025 04:26:53.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerLevel[world]/minecraft:overworld: waiting for 4960 chunks to unload
+[07Sep2025 04:26:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Sep2025 04:26:54.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/kattersstructures:deep_blue
+[07Sep2025 04:26:54.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[07Sep2025 04:26:54.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Sep2025 04:26:54.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/nmr:astral_plane
+[07Sep2025 04:26:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Sep2025 04:26:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Sep2025 04:26:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_blue): All chunks are saved
+[07Sep2025 04:26:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[07Sep2025 04:26:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Sep2025 04:26:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (astral_plane): All chunks are saved
+[07Sep2025 04:26:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Sep2025 04:26:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Sep2025 04:26:54.227] [C2ME Storage #3/INFO] [C2ME Storage/]: Storage thread Thread[#87,C2ME Storage #3,5,SERVER] stopped
+[07Sep2025 04:26:54.314] [C2ME Storage #2/INFO] [C2ME Storage/]: Storage thread Thread[#86,C2ME Storage #2,5,SERVER] stopped
+[07Sep2025 04:26:54.323] [C2ME Storage #1/INFO] [C2ME Storage/]: Storage thread Thread[#85,C2ME Storage #1,5,SERVER] stopped
+[07Sep2025 04:26:54.324] [C2ME Storage #6/INFO] [C2ME Storage/]: Storage thread Thread[#94,C2ME Storage #6,5,SERVER] stopped
+[07Sep2025 04:26:54.324] [C2ME Storage #5/INFO] [C2ME Storage/]: Storage thread Thread[#90,C2ME Storage #5,5,SERVER] stopped
+[07Sep2025 04:26:54.324] [C2ME Storage #4/INFO] [C2ME Storage/]: Storage thread Thread[#89,C2ME Storage #4,5,SERVER] stopped
+[07Sep2025 04:26:54.324] [C2ME Storage #9/INFO] [C2ME Storage/]: Storage thread Thread[#98,C2ME Storage #9,5,SERVER] stopped
+[07Sep2025 04:26:54.325] [C2ME Storage #8/INFO] [C2ME Storage/]: Storage thread Thread[#97,C2ME Storage #8,5,SERVER] stopped
+[07Sep2025 04:26:54.325] [C2ME Storage #7/INFO] [C2ME Storage/]: Storage thread Thread[#96,C2ME Storage #7,5,SERVER] stopped
+[07Sep2025 04:26:54.325] [C2ME Storage #12/INFO] [C2ME Storage/]: Storage thread Thread[#101,C2ME Storage #12,5,SERVER] stopped
+[07Sep2025 04:26:54.325] [C2ME Storage #11/INFO] [C2ME Storage/]: Storage thread Thread[#100,C2ME Storage #11,5,SERVER] stopped
+[07Sep2025 04:26:54.326] [C2ME Storage #10/INFO] [C2ME Storage/]: Storage thread Thread[#99,C2ME Storage #10,5,SERVER] stopped
+[07Sep2025 04:26:54.326] [C2ME Storage #15/INFO] [C2ME Storage/]: Storage thread Thread[#104,C2ME Storage #15,5,SERVER] stopped
+[07Sep2025 04:26:54.326] [C2ME Storage #14/INFO] [C2ME Storage/]: Storage thread Thread[#103,C2ME Storage #14,5,SERVER] stopped
+[07Sep2025 04:26:54.326] [C2ME Storage #13/INFO] [C2ME Storage/]: Storage thread Thread[#102,C2ME Storage #13,5,SERVER] stopped
+[07Sep2025 04:26:54.327] [C2ME Storage #18/INFO] [C2ME Storage/]: Storage thread Thread[#107,C2ME Storage #18,5,SERVER] stopped
+[07Sep2025 04:26:54.327] [C2ME Storage #17/INFO] [C2ME Storage/]: Storage thread Thread[#106,C2ME Storage #17,5,SERVER] stopped
+[07Sep2025 04:26:54.327] [C2ME Storage #16/INFO] [C2ME Storage/]: Storage thread Thread[#105,C2ME Storage #16,5,SERVER] stopped
+[07Sep2025 04:26:54.329] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easyanvils-server.toml
+[07Sep2025 04:26:54.330] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config leavesbegone-server.toml
+[07Sep2025 04:26:54.330] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config mutantmonsters-server.toml
+[07Sep2025 04:26:54.331] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config illagerinvasion-server.toml
+[07Sep2025 04:26:54.331] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config hangglider-server.toml
+[07Sep2025 04:26:54.331] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easymagic-server.toml

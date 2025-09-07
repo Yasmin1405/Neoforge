@@ -1332,6 +1332,7 @@
       "minecraft:cold_ocean": "2025-09-02 06:13:59 +0000",
       "minecraft:flower_forest": "2025-08-28 05:28:30 +0000",
       "minecraft:beach": "2025-09-04 03:19:13 +0000",
+      "minecraft:dark_forest": "2025-09-07 04:23:04 +0000",
       "minecraft:forest": "2025-09-07 04:07:04 +0000",
       "minecraft:ocean": "2025-09-02 06:14:08 +0000",
       "minecraft:deep_ocean": "2025-09-02 06:14:10 +0000",
@@ -6032,6 +6033,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-09-07 04:23:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_mangrove_stool": {
     "criteria": {
       "has_orange_wool": "2025-09-07 04:06:06 +0000"
@@ -6272,6 +6279,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/dark_oak_post": {
+    "criteria": {
+      "has_dark_oak_log": "2025-09-07 04:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-07 03:23:02 +0000"
@@ -6320,6 +6333,12 @@
     },
     "done": true
   },
+  "kattersstructures:village/village_all": {
+    "criteria": {
+      "village_birch": "2025-09-07 04:21:39 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
     "criteria": {
       "has_log": "2025-09-07 03:31:25 +0000"
@@ -6356,6 +6375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-09-07 04:19:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-09-07 03:53:25 +0000"
@@ -6377,6 +6402,12 @@
   "valhelsia_furniture:recipes/decorations/orange_curtain": {
     "criteria": {
       "has_item": "2025-09-07 04:06:06 +0000"
+    },
+    "done": true
+  },
+  "kattersstructures:village/village_birch": {
+    "criteria": {
+      "village_mesa": "2025-09-07 04:21:39 +0000"
     },
     "done": true
   },
@@ -6428,6 +6459,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/zelkova_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_planks": {
+    "criteria": {
+      "has_log": "2025-09-07 04:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 03:24:16 +0000"
@@ -6449,6 +6492,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_stool": {
     "criteria": {
       "has_black_wool": "2025-09-07 04:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-09-07 04:19:17 +0000"
     },
     "done": true
   },
@@ -6734,6 +6783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 04:23:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
     "criteria": {
       "has_black_wool": "2025-09-07 04:05:49 +0000"
@@ -6743,6 +6798,12 @@
   "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
     "criteria": {
       "has_orange_wool": "2025-09-07 04:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-09-07 04:18:49 +0000"
     },
     "done": true
   },
@@ -6785,6 +6846,18 @@
   "valhelsia_furniture:recipes/decorations/black_jungle_chair": {
     "criteria": {
       "has_black_wool": "2025-09-07 04:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-07 04:15:16 +0000"
+    },
+    "done": true
+  },
+  "kattersstructures:village/a_village": {
+    "criteria": {
+      "village_birch": "2025-09-07 04:21:39 +0000"
     },
     "done": true
   },

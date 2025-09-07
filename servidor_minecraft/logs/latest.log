@@ -2026,3 +2026,5 @@ java.lang.UnsupportedOperationException: Payload omegaconfig:sync may not be sen
 [07Sep2025 03:04:34.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> hay que traerlo del nether
 [07Sep2025 03:06:04.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> no hay por que no meti mod de ventanas JKDAS
 [07Sep2025 03:06:27.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Celxex> dime algo para craftear
+[07Sep2025 03:07:41.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Creative Mode]
+[07Sep2025 03:07:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Celxex: Set own game mode to Survival Mode]

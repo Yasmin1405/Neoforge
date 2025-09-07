@@ -4790,5 +4790,71 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_dyes/red": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-09-07 03:05:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

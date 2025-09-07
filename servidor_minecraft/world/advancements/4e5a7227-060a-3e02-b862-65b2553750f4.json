@@ -1411,6 +1411,7 @@
       "cookie": "2025-08-28 05:27:28 +0000",
       "potato": "2025-08-28 05:56:13 +0000",
       "mushroom_stew": "2025-08-28 04:46:53 +0000",
+      "sweet_berries": "2025-09-07 03:38:49 +0000",
       "cooked_beef": "2025-08-28 22:43:38 +0000",
       "melon_slice": "2025-08-28 05:13:45 +0000"
     },
@@ -3090,6 +3091,7 @@
     "criteria": {
       "biomeswevegone:orchard": "2025-09-02 06:03:47 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-04 03:18:42 +0000",
+      "biomeswevegone:zelkova_forest": "2025-09-07 03:39:44 +0000",
       "biomeswevegone:aspen_boreal": "2025-09-04 03:18:52 +0000",
       "biomeswevegone:coconino_meadow": "2025-08-28 05:47:03 +0000"
     },
@@ -5880,6 +5882,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-09-07 03:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 03:24:16 +0000"
@@ -5940,15 +5948,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-09-07 03:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 03:24:16 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2025-09-07 03:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-07 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-07 03:38:47 +0000"
     },
     "done": true
   },
@@ -5988,6 +6014,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-07 03:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-07 03:05:19 +0000"
@@ -5997,6 +6029,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "stellarity:imbuements": {
+    "criteria": {
+      "brew_lingering_potion": "2025-09-07 03:35:42 +0000"
     },
     "done": true
   },
@@ -6015,6 +6053,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-09-07 03:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 03:38:44 +0000"
     },
     "done": true
   },
@@ -6048,9 +6092,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
+    "criteria": {
+      "has_spruce_log": "2025-09-07 03:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-09-07 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-09-07 03:38:44 +0000"
     },
     "done": true
   },

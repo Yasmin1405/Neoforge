@@ -2208,6 +2208,7 @@
     "criteria": {
       "biomeswevegone:orchard": "2025-09-02 06:03:46 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-09-04 03:19:04 +0000",
+      "biomeswevegone:zelkova_forest": "2025-09-07 03:40:12 +0000",
       "biomeswevegone:aspen_boreal": "2025-09-04 03:19:10 +0000",
       "biomeswevegone:coconino_meadow": "2025-08-28 05:47:22 +0000"
     },
@@ -4805,6 +4806,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-09-07 03:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-09-07 03:05:03 +0000"
@@ -4814,6 +4821,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-09-07 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 03:40:38 +0000"
     },
     "done": true
   },
@@ -4907,6 +4920,12 @@
     },
     "done": true
   },
+  "nmr:progression/kill_common_mob": {
+    "criteria": {
+      "requirement": "2025-09-07 03:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-09-07 03:05:03 +0000"
@@ -4931,9 +4950,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-09-07 03:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-09-07 03:31:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/birch_post": {
+    "criteria": {
+      "has_birch_log": "2025-09-07 03:40:38 +0000"
     },
     "done": true
   },
@@ -4967,6 +4998,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-09-07 03:41:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/stripped_oak_post": {
     "criteria": {
       "has_stripped_oak_log": "2025-09-07 03:19:04 +0000"
@@ -4988,6 +5025,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-09-07 03:31:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-09-07 03:40:38 +0000"
     },
     "done": true
   },
